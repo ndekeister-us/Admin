@@ -58,7 +58,7 @@
     "element-resize-detector": "1.2.3",
     "ember-ajax": "5.1.1",
     "ember-assign-helper": "0.4.0",
-    "ember-auto-import": "1.12.0",
+    "ember-auto-import": "2.2.4",
     "ember-classic-decorator": "2.0.0",
     "ember-cli": "3.21.2",
     "ember-cli-app-version": "5.0.0",
@@ -143,7 +143,8 @@
     "top-gh-contribs": "2.0.4",
     "tracked-built-ins": "1.1.1",
     "validator": "7.2.0",
-    "walk-sync": "3.0.0"
+    "walk-sync": "3.0.0",
+    "webpack": "5"
   },
   "ember-addon": {
     "paths": [
